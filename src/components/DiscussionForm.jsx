@@ -32,11 +32,11 @@ export const DiscussForm = (actions) => {
       && message !== ''
     ) {
       emailjs.send(
-        'service_jfgt2im',
-        'template_3hnq58s',
-        templateParams,
-        'ouA_MV2ARBtDtN0I0',
-      ).then(() => {
+  import.meta.env.VITE_EMAILJS_SERVICE_ID,
+  import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
+  templateParams,
+  import.meta.env.VITE_EMAILJS_PUBLIC_KEY,
+).then(() => {
         toast.success('✅ Inquiry sent successfully!');
         resetForm();
       }, (error) => {

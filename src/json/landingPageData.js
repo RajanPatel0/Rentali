@@ -2,16 +2,6 @@
 
 
 // Portfolio Img Imports
-import Iztend from '../assets/images/Portfolio/Iztend.png';
-import RDTrack from '../assets/images/Portfolio/RdTrack.png';
-import Profile from '../assets/images/Portfolio/Profile.png';
-import Recruiting from '../assets/images/Portfolio/Recruiting.png';
-import Stream from '../assets/images/Portfolio/Stream.png';
-import Freelance from '../assets/images/Portfolio/Freelance.png';
-import Aura from '../assets/images/Portfolio/Aura.png';
-import Surtido from '../assets/images/Portfolio/Surtido.png';
-import ManagementApp from '../assets/images/Portfolio/ManagementApp.png';
-
 import ThirtyL from '../assets/images/Portfolio/30L.jpeg';
 import FiftyL from '../assets/images/Portfolio/50L.jpeg';
 import sixfiveL1 from '../assets/images/Portfolio/65L1.jpeg';
