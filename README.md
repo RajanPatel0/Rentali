@@ -1,12 +1,26 @@
-# React + Vite
+# Homo Deal Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive real-estate inquiry form built with React, Vite, EmailJS, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- EmailJS-powered form submissions with Toast notifications
+- Environment variables support (`.env`)
+- Deployed on Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Installation
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/your-username/homo-deal.git
+cd homo-deal
+npm install
+npm run dev
+For EmailJS Working make .env file and enter your respective keys
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🌐 2. Push & Enable GitHub–Vercel Integration
+
+1. Commit your changes:
+   ```bash
+   git add .
+   git commit -m "Initial commit: ready for GitHub + Vercel"
+   git push -u origin main
