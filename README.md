@@ -1,4 +1,4 @@
-# Homo Deal Frontend
+# Rentali Frontend
 
 A responsive real-estate inquiry form built with React, Vite, EmailJS, and Tailwind CSS.
 
